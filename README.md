@@ -17,7 +17,7 @@ python urllibDoS.py https://google.com true
 **Tips:**
 
 (1) Use it with VPN / WHONIX for 'anonymity'.  
-Support is provided for TOR / VPN connection resets.  
+Support is provided for TOR (in WHONIX) / VPN connection resets.  
 Stack Overflow crashes have been resolved.
 
 (2) Run it in multiple terminals. Once with true flag, once with false flag. Combine it with https://github.com/g-h-0-S-t/Nuke .
