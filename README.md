@@ -1,5 +1,6 @@
 # urllibDoS.py
-A GET attack using the urllib package in Python 3. A simpler version of https://github.com/g-h-0-S-t/bs4DoSTool .
+A GET attack using the urllib package in Python 3.  
+A simpler version of https://github.com/g-h-0-S-t/bs4DoSTool .
 
 **Usage Example:** 
 ```python
@@ -24,4 +25,7 @@ Stack Overflow crashes have been resolved.
 Once with true flag, once with false flag.  
 Combine it with https://github.com/g-h-0-S-t/Nuke .
 
-**IMPORTANT:** THIS SOFTWARE IS PROVIDED FOR EDUCATIONAL USE ONLY! IF YOU ENGAGE IN ANY ILLEGAL ACTIVITY THE AUTHOR DOES NOT TAKE ANY RESPONSIBILITY FOR IT. BY USING THIS SOFTWARE YOU AGREE WITH THESE TERMS.
+**IMPORTANT:**  
+THIS SOFTWARE IS PROVIDED FOR EDUCATIONAL USE ONLY!  
+IF YOU ENGAGE IN ANY ILLEGAL ACTIVITY THE AUTHOR DOES NOT TAKE ANY RESPONSIBILITY FOR IT.  
+BY USING THIS SOFTWARE YOU AGREE WITH THESE TERMS.
