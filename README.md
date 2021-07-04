@@ -6,14 +6,14 @@ A simpler version of https://github.com/g-h-0-S-t/bs4DoSTool .
 ```python
 # use these syntaxes to receive 200 response code
 
-python urllibDoS.py https://google.com
+python3 urllibDoS.py https://google.com
 
-python urllibDoS.py https://google.com false
+python3 urllibDoS.py https://google.com false
 
 # use this syntax to receive 400 response code
 # (i.e., making use of bad requests to try overwhelming a server)
 
-python urllibDoS.py https://google.com true
+python3 urllibDoS.py https://google.com true
 ```
 **Tips:**
 
